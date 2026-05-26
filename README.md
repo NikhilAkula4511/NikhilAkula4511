@@ -18,10 +18,24 @@
 
 ## 👋 About me
 
-Innovative **GenAI & Computer Vision Engineer** with **~2+ years** of experience building video analytics, real-time systems, LLM applications, and data pipelines. I deliver production-grade solutions for surveillance automation, retail intelligence, and **RAG-driven insights** from unstructured data.
+I’m a GenAI & Computer Vision Engineer focused on building production-grade AI systems that solve real-world problems across video analytics, edge AI, and large language models.
 
-**Currently:** AIML Engineer @ **People Tech Technology** — Edge AI wildlife detection (YOLOv8 on Jetson / Qualcomm NPU).  
-**Previously:** Jr. Data Analyst @ **Fortune Softtech** — CCTV analytics + GPT-4 RAG over reviews.
+With ~2+ years of hands-on experience, I specialize in developing and deploying real-time intelligence systems—from CCTV analytics to RAG-based applications that extract insights from unstructured data.
+
+Currently, I work at People Tech Technology, where I design edge AI solutions for wildlife detection using YOLOv8 on NVIDIA Jetson and Qualcomm NPUs. My work focuses on optimizing models for real-time performance in resource-constrained environments.
+
+Previously at Fortune Softtech, I built CCTV analytics pipelines and developed GPT-4 powered RAG systems to analyze large-scale review data, enabling faster and more accurate decision-making.
+
+My core strengths include:
+• Computer Vision: YOLOv8, OpenCV, real-time video processing
+• GenAI: RAG pipelines, LLM applications (GPT-4), prompt optimization
+• Edge AI: Jetson, Qualcomm AI SDK, model optimization
+• Backend & Pipelines: FastAPI, data pipelines, scalable system design
+
+I’m particularly interested in solving problems at the intersection of GenAI and real-time systems—where intelligence meets performance constraints.
+
+Open to opportunities in GenAI, Computer Vision, and Applied AI roles where I can build scalable, impactful AI systems.
+
 
 ---
 
