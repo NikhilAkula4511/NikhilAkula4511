@@ -111,6 +111,6 @@ Open to opportunities in GenAI, Computer Vision, and Applied AI roles where I ca
 | **LinkedIn** | [linkedin.com/in/akula-nikhil](https://www.linkedin.com/in/akula-nikhil/) |
 | **Email** | nikhilakularohith@gmail.com |
 | **Phone** | +91 9390378480 |
-| **Open to** | GenAI Engineer · ML Engineer · Computer Vision · Data Analyst |
+| **Open to** | GenAI Engineer · ML Engineer · Computer Vision · Data Analyst · Data Scientist |
 
 ⭐️ *If you find my work useful, star a repo — it helps visibility.*
